@@ -1,0 +1,25 @@
+{
+  "name": "json_struct",
+  "version": "1.0.0",
+  "description": "Transform json to multiple C struct",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alwyn974",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwyn974/json_struct.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alwyn974/json_struct/issues"
+  },
+  "homepage": "https://github.com/alwyn974/json_struct#readme",
+  "dependencies": {
+    "yargs": "^17.4.1"
+  },
+  "devDependencies": {}
+}
